@@ -1,0 +1,9 @@
+body {
+    
+    color: blue;
+}
+#cabecalho {
+    width: 1900px;
+    height: 400px;
+    background-image: url("/assets/images/background-desktop.jpg");
+}
